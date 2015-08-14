@@ -4,7 +4,6 @@
 
 body {
   text-align: center;
-  padding: 20px 0 50px;
 }
 
 * { -webkit-box-sizing: border-box; }
@@ -153,10 +152,13 @@ td {
     word-wrap: break-word;
 }
 
-.event-details .date {
+.event-details .date, .event-details .location {
 	margin: 0 0 20px;
     font-size: 15px;
 	font-weight: bold;
+}
+.event-details .location {
+	text-align: right;
 }
 
 .popup_visible .event-details {

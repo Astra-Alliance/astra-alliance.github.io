@@ -59,6 +59,10 @@ function appendEvent( event ) {
     		html: lines[i]
 	  	  }).appendTo(eventDetails);
 	  }
+	  if (event.location) $('<div/>', {
+		  class: "location",
+    	  text: event.location
+	  }).appendTo(eventDetails);
 	  eventElement.addClass("session_" + event.id + "_open");
 	  if (event.link) $('<a target="_blank" href="' + event.link + '">Details</a>').appendTo(eventDetails);
 	  //eventElement.attr("onClick", "$('#session" + event.id + "').popup({transition: 'all 0.3s'});");
