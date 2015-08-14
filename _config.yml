@@ -1,0 +1,19 @@
+# Site settings
+timezone: Europe/London
+title: Astra Alliance - Teacher Training
+email: help@astra-alliance.com
+description: > # this means to ignore newlines until "baseurl:"
+  Astra Alliance - Teacher Training Information Site 2015-16
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://training.astra-alliance.com" # the base hostname & protocol for your site
+twitter_username: AstraAlliance
+github_username:  astra-alliance
+
+# Build settings
+markdown: kramdown
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
