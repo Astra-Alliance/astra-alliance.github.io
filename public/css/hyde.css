@@ -74,6 +74,10 @@ html {
 .sidebar a {
   color: #fff;
 }
+.sidebar .icon {
+	width: 16px;
+	height: 16px;
+}
 
 /* About section */
 .sidebar-about h1 {
