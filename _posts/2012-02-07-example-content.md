@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Example content
+tags:
+- example
+published: true
 ---
 
 

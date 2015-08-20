@@ -131,8 +131,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 2rem;
 }
 
 @media (min-width: 48em) {
@@ -276,4 +276,30 @@ a.sidebar-nav-item:focus {
 .theme-base-astra .sidebar-about h1 {
   font-family: "Libre Baskerville", "Baskerville", Georgia, serif;
   margin-right: 3rem;
+}
+
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  text-align: justify; 
+  font-size: 16px;
+}
+
+.tag-cloud li {
+  display: inline-block;
+  margin: 0 12px 12px 0; 
+}
+
+#archives {
+  padding: 5px;
+}
+.archive-group {
+  margin: 5px;
+  border-top: 1px solid #ddd;
+}
+.archive-item {
+  margin-left: 5px;
+}
+.post-tags {
+  text-align: right;
 }

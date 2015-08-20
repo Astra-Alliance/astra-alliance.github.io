@@ -1,6 +1,7 @@
 .widget {
   text-align: center;
-  margin-top: -60px;
+  margin-top: -1rem;
+  margin-bottom: -1rem;
 }
 
 .widget * { -webkit-box-sizing: border-box; }
@@ -40,6 +41,11 @@
   border-bottom: 2px #CCF4FF solid;
 }
 
+#cal-controls a {
+	vertical-align: middle;
+	padding-bottom: 0.2rem;
+} 
+
 .widget a:hover {
   color: #47CCFC;
 }
@@ -56,7 +62,7 @@
 
 .days td {
   padding-top: 2px;
-  height: 100px;
+  min-height: 50px;
   border-bottom: 1px solid #f0f0f0;
 }
 
