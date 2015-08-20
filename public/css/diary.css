@@ -1,50 +1,51 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
-body {
+.widget {
   text-align: center;
+  margin-top: -60px;
 }
 
-* { -webkit-box-sizing: border-box; }
+.widget * { -webkit-box-sizing: border-box; }
 
 .month-table {
-  margin: 0 auto 100px;
+  margin: 0 auto;
   border: 1px solid #ccefff;
   padding: 10px;
 }
 
-h1 { font-size: 40px; border-bottom: 1px solid #999; display: inline-block; }
-h2 { font-size: 30px; }
+.widget h1 { font-size: 1.5rem; border-bottom: 1px solid #999; display: inline-block; }
+.widget h2 { font-size: 1.1rem; margin: 5px;}
 
 .month-menuitem {
-  font-size: 14px;
+  font-size: 0.8rem;
   padding: 6px;
   display: inline-block;
   border: 0;
   text-transform: uppercase;
-  margin: 0 10px;
+  margin: 5px;
   border: 2px solid #ccf4ff;
 }
 
-.month-menuitem.active {
-  background: #ccf4ff;
-  color: #000;
+.active {
+  background: #163b66;
+  font-weight: bold;
 }
 
-a {
+.widget a.active {
+	color: #ffffff;
+}
+
+.widget a {
   color: #333333;
   text-decoration: none;
-  padding-bottom: 0px;
+  padding-bottom: 0;
   border-bottom: 2px #CCF4FF solid;
 }
 
-a:hover {
+.widget a:hover {
   color: #47CCFC;
 }
 
-td {
-  width: 160px;
+.widget td {
+  min-width: 50px;
   vertical-align: top;
 }
 
@@ -71,8 +72,8 @@ td {
 .event {
   white-space: nowrap;
   padding: 3px;
-  height: 23px;
   margin-bottom: 1px;
+  min-width: 60px;
   max-width: 184px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -112,8 +113,8 @@ td {
   border-radius: 24px;
   position: absolute;
   left: 50%;
-  margin-left: -12px;
-  top: 0;
+  margin-left: -13px;
+  margin-top: 2px;
 }
 
 .following-days a { font-size: 0; }
@@ -145,8 +146,8 @@ td {
 
 .event-details div {
 	margin: 0 0 10px;
-    font-size: 13px;
-    line-height: 1.42857143;
+    font-size: 1.1rem;
+    line-height: 2rem;
     color: #333;
     word-break: break-all;
     word-wrap: break-word;

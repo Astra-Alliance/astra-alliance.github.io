@@ -1,5 +1,9 @@
-_site/
-.sass-cache/
-.bundle/
+.sass-cache
+.bundle
+.ruby-version
+
+_gh_pages
+_site
+
 Gemfile
 Gemfile.lock

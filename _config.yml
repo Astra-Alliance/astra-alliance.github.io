@@ -1,19 +1,32 @@
-# Site settings
-timezone: Europe/London
-title: Astra Alliance - Teacher Training
-email: help@astra-alliance.com
-description: > # this means to ignore newlines until "baseurl:"
-  Astra Alliance - Teacher Training Information Site 2015-16
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://training.astra-alliance.com" # the base hostname & protocol for your site
-twitter_username: AstraAlliance
-github_username:  astra-alliance
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Astra Alliance
+tagline:          "Training Materials, Diary & Resources"
+description:      "Teacher Training Materials, Diary & Resources for the Astra Alliance"
+url:              http://training.astra-alliance.com
+baseurl:          /
+
+author:
+  name:           "JD"
+  url:            https://github.com/astra-alliance
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/Astra-Alliance/astra-alliance.github.io
+  
+social:
+  web:			  http://www.astra-alliance.com
+  twitter:		  https://twitter.com/astraalliance
+  facebook:		  https://www.facebook.com/pages/Astra-Alliance/674390952683304
+  linkedin:		  https://www.linkedin.com/company/astra-teacher-training
