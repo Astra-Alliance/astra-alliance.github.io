@@ -8,4 +8,6 @@ tags:
 published: true
 ---
 
-Our new blog post will be there, together with lots of (links)[www.astra-alliance.com].
+Our new blog post will be there, together with lots of [links](www.astra-alliance.com).
+
+<!--more-->

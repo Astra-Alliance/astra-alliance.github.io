@@ -32,7 +32,8 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Signika", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 @media (min-width: 48em) {
   html {
@@ -55,7 +56,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -132,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 .content {
   padding-top:    2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
 }
 
 @media (min-width: 48em) {
@@ -266,18 +267,24 @@ a.sidebar-nav-item:focus {
 .theme-base-astra .related-posts li a:hover {
   color: #163b66;
 }
-.theme-base-astra .sidebar-about {
-  background-image: url('/public/img/star.png');
-  background-repeat: no-repeat;
-  background-origin: content-box;
-  background-position: right top;
-  background-size: 3rem;
+.theme-base-astra .logo {
+	width: 2.9rem;
+	height: 2.9rem;
+	margin-bottom: -0.2rem;
 }
 .theme-base-astra .sidebar-about h1 {
   font-family: "Libre Baskerville", "Baskerville", Georgia, serif;
-  margin-right: 3rem;
+  font-weight: 400;
 }
-
+.theme-base-astra .icon {
+	margin-right: 10px;
+}
+.theme-base-astra .icon path {
+	fill: #828282;	
+}
+.theme-base-astra .icon path.inverted {
+	fill: #163b66;	
+}
 .tag-cloud {
   list-style: none;
   padding: 0;

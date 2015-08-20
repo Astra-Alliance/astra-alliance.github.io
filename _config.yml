@@ -3,30 +3,31 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:				pretty
+relative_permalinks:	true
 
 # Setup
-title:            Astra Alliance
-tagline:          "Training Materials, Diary & Resources"
-description:      "Teacher Training Materials, Diary & Resources for the Astra Alliance"
-url:              http://training.astra-alliance.com
-baseurl:          /
-
+title:					Astra Alliance
+tagline:				"Training & Resources"
+description:			"Teacher Training Materials, Diary & Resources for the Astra Alliance"
+url:					http://training.astra-alliance.com
+baseurl:				/
+excerpt_separator:		<!--more-->
 author:
-  name:           "JD"
-  url:            https://github.com/astra-alliance
+  name:					"JD"
+  url:					https://github.com/astra-alliance
 
-paginate:         5
+paginate:				3
 
 # Custom vars
-version:          1.0.0
+version:				1.0.0
 
 github:
-  repo:           https://github.com/Astra-Alliance/astra-alliance.github.io
+  repo:					https://github.com/Astra-Alliance/astra-alliance.github.io
   
 social:
-  web:			  http://www.astra-alliance.com
-  twitter:		  https://twitter.com/astraalliance
-  facebook:		  https://www.facebook.com/pages/Astra-Alliance/674390952683304
-  linkedin:		  https://www.linkedin.com/company/astra-teacher-training
+  web:					http://www.astra-alliance.com
+  twitter:				https://twitter.com/astraalliance
+  facebook:				https://www.facebook.com/pages/Astra-Alliance/674390952683304
+  linkedin:				https://www.linkedin.com/company/astra-teacher-training
+  github:				https://github.com/Astra-Alliance

@@ -1,7 +1,7 @@
 .widget {
   text-align: center;
   margin-top: -1rem;
-  margin-bottom: -1rem;
+  margin-left: -1rem;
 }
 
 .widget * { -webkit-box-sizing: border-box; }
@@ -56,13 +56,13 @@
 }
 
 .header td {
-  padding: 10px;
+  padding: 5px;
   border-bottom: 1px solid #e0e0e0;
 }
 
 .days td {
   padding-top: 2px;
-  min-height: 50px;
+  min-height: 40px;
   border-bottom: 1px solid #f0f0f0;
 }
 
@@ -79,10 +79,12 @@
   white-space: nowrap;
   padding: 3px;
   margin-bottom: 1px;
-  min-width: 60px;
-  max-width: 184px;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.event, .no-event {
+  min-width: 40px;
+  max-width: 184px;
 }
 
 .day {
