@@ -19,8 +19,6 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/syntax.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/hyde.css">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Signika:300,600">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville:400">
 	
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
@@ -31,11 +29,12 @@
 	
   {% if page.title == "Diary" %}
   <!-- Diary -->
-  <link rel="stylesheet" href="{{ "public/css/diary.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "public/css/diary.css" | prepend: site.baseurl }}">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="/public/js/jquery.popupoverlay.js"></script>
-  <script type="text/javascript" src="/public/js/tabletop.js"></script>
-  <script type="text/javascript" src="/public/js/sheetsee.js"></script>
-  <script type="text/javascript" src="/public/js/diary.js"></script>
+  <script type="text/javascript" src="{{ "public/js/jquery.popupoverlay.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "public/js/tabletop.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "public/js/sheetsee.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "public/js/diary.js" | prepend: site.baseurl }}"></script>
   {% endif %}
+	
 </head>
