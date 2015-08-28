@@ -90,11 +90,11 @@
 }
 
 .event {
-  white-space: nowrap;
   padding: 3px;
   margin-bottom: 1px;
   overflow: hidden;
   text-overflow: ellipsis;
+  word-wrap: break-word;
   a {
 	  font-size: 0.8rem;
 	  word-break: break-all;
