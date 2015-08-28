@@ -12,7 +12,10 @@ title: Home
       </a>
     </h1>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt }}
+    {{ post.content | strip_html | truncate:250 }}
+	{% if post.content | size > 250 %}
+	  <strong><em> <a href="{{ post.url }}">Read more</a></em></strong>
+	{% endif %}
   </div>
   {% endfor %}
 </div>

@@ -12,7 +12,6 @@ tagline:				"Training & Resources"
 description:			"Teacher Training Materials, Diary & Resources for the Astra Alliance"
 url:					http://training.astra-alliance.com
 baseurl:				/
-excerpt_separator:		<!--more-->
 author:
   name:					"JD"
   url:					https://github.com/astra-alliance
