@@ -8,6 +8,11 @@ This site brings together training resources, links, informative posts and diary
 
 ## Useful Links
 
+__Astra Documents__
+
+* [Teachers' Standards - Self Evaluation](https://docs.google.com/spreadsheets/d/1Ohi9RiWiOT5OdEaho3B5iuSwB9ItJxjLH3WWldkhtoQ/copy)
+* [Teachers' Standards - Details](https://docs.google.com/document/d/14O2Mxo4y0TTwckOmbJpDnaCHM0jvdwxV9eR4nFEuEGw/view)
+
 __Reading MOG Forms__
 
 * [Teachers' Standards Audit](https://docs.google.com/a/astra-alliance.com/document/d/1XszIfv0rTG2SYUb9gH9W3HCXYngeSb0ZzOice2xvFsY/copy)
