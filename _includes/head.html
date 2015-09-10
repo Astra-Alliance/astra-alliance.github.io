@@ -36,5 +36,9 @@
   <script type="text/javascript" src="{{ "public/js/sheetsee.js" | prepend: site.baseurl }}"></script>
   <script type="text/javascript" src="{{ "public/js/diary.js" | prepend: site.baseurl }}"></script>
   {% endif %}
-	
+
+  {% if page.tags contains 'nqt' %}
+	<link rel="stylesheet" type="text/css" href="{{ "public/css/nqt.css" | prepend: site.baseurl }}">
+  {% endif %}
+
 </head>

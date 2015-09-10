@@ -310,4 +310,8 @@ a.sidebar-nav-item:focus {
 }
 .post-tags {
   text-align: right;
+  padding-bottom: 1rem;
+  span {
+	  padding: 0.2rem;
+  }
 }

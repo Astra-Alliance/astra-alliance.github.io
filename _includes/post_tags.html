@@ -1,5 +1,28 @@
+<script type="text/javascript">
+	function fivefilters(type) {
+		if (type=='kindle') {
+			popWin("Send to Kindle", "http://fivefilters.org/kindle-it/send.php?url=" + window.location.href, 600, 870);
+		} else if (type=='epub') {
+			popWin("Download As Epub", "http://fivefilters.org/kindle-it/send.php?url=" + window.location.href + "&context=download&format=epub", 600, 870);
+		} else if (type=='mobi') {
+			popWin("Download as Mobi", "http://fivefilters.org/kindle-it/send.php?url=" + window.location.href + "&context=download&format=mobi", 600, 870);
+		}
+	}
+	function OpenInNewTab(url) {
+  		var win = window.open(url, '_blank');
+  		win.focus();
+	}
+	function popWin(title,url,optH,optW) {
+		h=optH||500;w=optW||680;sh=window.innerHeight||document.body.clientHeight;
+		sw=window.innerWidth||document.body.clientWidth;
+		wd=window.open(url,title,'scrollbars=no,menubar=no,height='+h+',width='+w+',resizable=yes,toolbar=no,location=no,status=no,top='+((sh/2)-(h/2))+',left='+((sw/2)-(w/2)));
+	}
+	function escape_HTML(value) {
+		return String(value).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+	}
+</script>
 <div class="post-tags">
-  Tags: 
+  <span><strong>Tags:</strong> 
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -7,5 +30,6 @@
   {% endif %}
   {% for tag in tags %}
   <a href="/tags/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  {% endfor %}</span>
+  <span><strong>Download As: </strong><a id="kindleLnk" href="#" onclick="fivefilters('kindle');return false;">Kindle</a> | <a href="javascript:void(0)" onclick="fivefilters('epub');">ePub</a> | <a href="javascript:void(0)" onclick="fivefilters('mobi');">mobi</a></span>
 </div>

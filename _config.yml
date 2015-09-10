@@ -9,6 +9,7 @@ relative_permalinks:	true
 # Setup
 title:					Astra Alliance
 tagline:				"Training & Resources"
+nqt_tagline:			"NQT Training Year"
 description:			"Teacher Training Materials, Diary & Resources for the Astra Alliance"
 url:					http://training.astra-alliance.com
 baseurl:				/
@@ -18,8 +19,11 @@ author:
 
 paginate:				3
 sass:
-  style: compressed
-  
+  style: 				compressed
+
+lsi:					true
+post_assets:			public/assets
+
 # Custom vars
 version:				1.0.0
 
