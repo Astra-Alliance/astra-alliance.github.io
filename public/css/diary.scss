@@ -8,11 +8,21 @@
 .widget {
 	text-align: center;
 	width: 100%;
-	margin-left: -1rem;
-	margin-top: -0.5rem;
+	/*margin-left: -1rem;
+	margin-top: -0.5rem;*/
 }
 
 .widget * { -webkit-box-sizing: border-box; }
+
+/*  table    { display: table }
+    tr       { display: table-row }
+    thead    { display: table-header-group }
+    tbody    { display: table-row-group }
+    tfoot    { display: table-footer-group }
+    col      { display: table-column }
+    colgroup { display: table-column-group }
+    td, th   { display: table-cell }
+    caption  { display: table-caption }  */
 
 .month-table {
   margin: 0 auto;
@@ -24,6 +34,7 @@
 .widget h2 { font-size: 1.1rem; margin: 5px;}
 
 .month-menuitem {
+  width: 6rem;
   font-size: 0.8rem;
   padding: 6px;
   display: inline-block;
@@ -49,6 +60,7 @@
 }
 
 #cal-controls {
+  margin-bottom: 0.4rem;
 	a {
 		vertical-align: middle;
 		padding-bottom: 0.2rem;

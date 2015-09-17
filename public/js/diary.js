@@ -184,11 +184,23 @@ $(function() {
 	  }
 	}
 
-	// Because I don't like ot write for()
+	// Because I don't like to write for()
 	function loopForTimes( times, callback ) {
 	  for( var i=0; i < times; i++ ){
 		callback(i);
 	  }
+
+	  /*
+		what about...
+
+		for (i in object) {}
+
+		or, with jQuery...
+
+		$.each(object, function(i, val) {});
+
+		?
+	  /*
 	}
 
 	// This is handy: getting the first row with available cell space
