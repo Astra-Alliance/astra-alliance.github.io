@@ -143,7 +143,7 @@ $(function() {
 	  var eventMonthName = monthNames[date.getMonth()];
 	  var monthTable     = $('<div class="month-table" data-month="' + date.getFullYear() + "-"  + eventMonthName + '" id="month-' + date.getMonth() + '"></div>');
 	  // $("<div/>", {class: "etc", id: "etcetc"}) ?
-	  var monthTableBody = $("<div/", {class: "month-table-body"});
+	  var monthTableBody = $("<div/>", {class: "month-table-body"});
 	  monthTableBody.appendTo(monthTable);
 	  // var today          = new Date()
 	  var endOfToday     = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 0, 0, 0);
