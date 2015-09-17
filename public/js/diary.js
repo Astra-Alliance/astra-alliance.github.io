@@ -206,13 +206,13 @@ $(function() {
 
 	// This is handy: getting the first row with available cell space
 	function getFirstAvailableRow( table ) {
-	  var row = table.find('tr.days').filter(function(i, thisRow) {
-		return ($(thisRow).find('td').length) < 7;
+	  var row = table.find('.month-table-tr.days').filter(function(i, thisRow) {
+		return ($(thisRow).find('.month-table-td').length) < 7;
 	  });
 	  // If no available row, create a new one
 	  if( row.length === 0 ) {
-		table.append('<tr class=days>');
-		row = table.find('tr').last();
+		table.append('<div class="days month-table-tr"/>');
+		row = table.find('.month-table-tr').last();
 	  }
 	  return row;
 	}
