@@ -8,27 +8,11 @@
 .widget {
 	text-align: center;
 	width: 100%;
-	/*margin-left: -1rem;
-	margin-top: -0.5rem;*/
+	// margin-left: -1rem;
+	// margin-top: -0.5rem;
 }
 
 .widget * { -webkit-box-sizing: border-box; }
-
-/*  table    { display: table }
-    tr       { display: table-row }
-    thead    { display: table-header-group }
-    tbody    { display: table-row-group }
-    tfoot    { display: table-footer-group }
-    col      { display: table-column }
-    colgroup { display: table-column-group }
-    td, th   { display: table-cell }
-    caption  { display: table-caption }  */
-
-.month-table {
-  margin: 0 auto;
-  border: 1px solid #ccefff;
-  padding: 0.1rem;
-}
 
 .widget h1 { font-size: 1.5rem; border-bottom: 1px solid #999; display: inline-block; }
 .widget h2 { font-size: 1.1rem; margin: 5px;}
@@ -69,6 +53,39 @@
 
 .widget a:hover {
   color: #47CCFC;
+}
+
+/*  table    { display: table }
+    tr       { display: table-row }
+    thead    { display: table-header-group }
+    tbody    { display: table-row-group }
+    tfoot    { display: table-footer-group }
+    col      { display: table-column }
+    colgroup { display: table-column-group }
+    td, th   { display: table-cell }
+    caption  { display: table-caption }  */
+
+// rehash tables to be pseudo tables - should make rejigging easier?
+
+.month-table {
+  margin: 0 auto;
+  border: 1px solid #ccefff;
+  padding: 0.1rem;
+
+  display: table;
+  cellspacing: 0;
+}
+
+.month-table-body {
+  display: table-row-group;
+}
+
+.month-table-tr {
+  display: table-row;
+}
+
+.month-table-td {
+  display: table-column;
 }
 
 .widget td {
