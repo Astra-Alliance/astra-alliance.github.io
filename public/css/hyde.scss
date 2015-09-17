@@ -171,11 +171,13 @@ a.sidebar-nav-item:focus {
     left: auto;
     right: 0;
   }
+  .layout-reverse: .content {
+    margin-right: 2rem;
+  }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-right: 2rem;
   }
 }
 
