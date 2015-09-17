@@ -149,7 +149,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (max-width: 64em) {
   .content {
     margin-left: 2rem;
   }
@@ -171,12 +171,9 @@ a.sidebar-nav-item:focus {
     left: auto;
     right: 0;
   }
-  .layout-reverse: .content {
-    margin-right: 2rem;
-  }
 }
 
-@media (min-width: 64em) {
+@media (max-width: 64em) {
   .layout-reverse .content {
   }
 }
