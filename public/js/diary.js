@@ -189,19 +189,19 @@ $(function() {
 	  for( var i=0; i < times; i++ ){
 		callback(i);
 	  }
-
-	  /*
-		what about...
-
-		for (i in object) {}
-
-		or, with jQuery...
-
-		$.each(object, function(i, val) {});
-
-		?
-	  */
 	}
+
+	/*
+	  what about...
+
+	  for (i in object) {}
+
+	  or, with jQuery...
+
+	  $.each(object, function(i, val) {});
+
+	  ?
+	*/
 
 	// This is handy: getting the first row with available cell space
 	function getFirstAvailableRow( table ) {
