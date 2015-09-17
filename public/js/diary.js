@@ -200,7 +200,7 @@ $(function() {
 		$.each(object, function(i, val) {});
 
 		?
-	  /*
+	  */
 	}
 
 	// This is handy: getting the first row with available cell space
