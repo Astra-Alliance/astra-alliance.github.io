@@ -143,8 +143,6 @@ $(function() {
 	  var eventMonthName = monthNames[date.getMonth()];
 	  var monthTable     = $('<div class="month-table" data-month="' + date.getFullYear() + "-"  + eventMonthName + '" id="month-' + date.getMonth() + '"></div>');
 	  // $("<div/>", {class: "etc", id: "etcetc"}) ?
-	  // var monthTable = $("<div/>", {class: "month-table-body"});
-	  // monthTable.appendTo(monthTable);
 	  // var today          = new Date()
 	  var endOfToday     = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 0, 0, 0);
 	  var firstDay       = new Date(date.getFullYear(), date.getMonth(), 1);
@@ -160,6 +158,10 @@ $(function() {
 	  loopForTimes( 7, function(i) {
 		headerRow.append('<div class="month-table-td"><h2>' + weekdays[i] + '</h2></div>');
 	  });
+
+	  // might to add in a week 1, 2, 3, 4 header to appear when the table is in a list format
+	  // then hide these by default and show when resized?
+	  // will need to change the getfristavailablerow function to check for length < 8
 
 	  // Add empty days from previous month
 	  var times = weekDayNumber === 0 ? 6 : weekDayNumber - 1;
