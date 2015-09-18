@@ -76,7 +76,7 @@
   }
 
   .month-table-tr.days {
-    border: 1px solid #ccefff;
+    outline: 1px solid #ccefff;
 
     display: table-row-group;
 
@@ -87,9 +87,13 @@
     display: table-row;
   }
 
+  .month-table-td.no-event {
+    font-size: 0.7rem;
+  }
+
   .event {
     a {
-      font-size: 1.3rem;
+      font-size: 1.3rem !important;
     }
   }
 
