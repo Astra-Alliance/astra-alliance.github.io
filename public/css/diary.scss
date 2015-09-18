@@ -67,6 +67,16 @@
 
 // rehash tables to be pseudo tables - should make rejigging easier?
 
+@media (max-width: 48em) {
+
+  // I think this should be the width to go list-type view (matches up with making side/topbar font smaller)
+
+  .month-table-tr.header {
+    display: none;
+  }
+
+}
+
 .month-table {
   margin: 0 auto;
   border: 1px solid #ccefff;
@@ -88,12 +98,12 @@
   display: table-cell;
 }
 
-.widget td {
+.widget .month-table-td {
   vertical-align: top;
   max-width: percentage(1/7);
 }
 
-.header td {
+.header .month-table-td {
   padding: 0.4rem;
   border-bottom: 1px solid #e0e0e0;
   text-align: center;
@@ -105,13 +115,13 @@
   }
 }
 
-.days td {
+.days .month-table-td {
   padding-top: 2px;
   min-height: 40px;
   border-bottom: 1px solid #f0f0f0;
 }
 
-.days:last-child td {
+.days:last-child .month-table-td {
   border-bottom: 0;
 }
 

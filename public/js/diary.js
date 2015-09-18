@@ -143,8 +143,8 @@ $(function() {
 	  var eventMonthName = monthNames[date.getMonth()];
 	  var monthTable     = $('<div class="month-table" data-month="' + date.getFullYear() + "-"  + eventMonthName + '" id="month-' + date.getMonth() + '"></div>');
 	  // $("<div/>", {class: "etc", id: "etcetc"}) ?
-	  var monthTableBody = $("<div/>", {class: "month-table-body"});
-	  monthTableBody.appendTo(monthTable);
+	  // var monthTable = $("<div/>", {class: "month-table-body"});
+	  // monthTable.appendTo(monthTable);
 	  // var today          = new Date()
 	  var endOfToday     = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 0, 0, 0);
 	  var firstDay       = new Date(date.getFullYear(), date.getMonth(), 1);
@@ -155,8 +155,8 @@ $(function() {
 	  //monthTable.before('<h2 data-month="' + date.getFullYear() + '-' + eventMonthName + '">' + eventMonthName + ' ' + date.getFullYear() + '</h2>');
 
 	  // Add month calendar header
-	  monthTableBody.append('<div class="header month-table-tr"></div>');
-	  var headerRow = monthTableBody.find('.header');
+	  monthTable.append('<div class="header month-table-tr"></div>');
+	  var headerRow = monthTable.find('.header');
 	  loopForTimes( 7, function(i) {
 		headerRow.append('<div class="month-table-td"><h2>' + weekdays[i] + '</h2></div>');
 	  });
@@ -164,7 +164,7 @@ $(function() {
 	  // Add empty days from previous month
 	  var times = weekDayNumber === 0 ? 6 : weekDayNumber - 1;
 	  loopForTimes( times, function() {
-		getFirstAvailableRow(monthTableBody).append('<div class="empty month-table-td"></div>');
+		getFirstAvailableRow(monthTable).append('<div class="empty month-table-td"></div>');
 	  });
 
 	  // Filling the month with days
@@ -172,11 +172,11 @@ $(function() {
 		var thisDay = new Date(date.getFullYear(), date.getMonth(), (daynumber + 1));
 		var id = formattedDate(thisDay);
 		var pastClass = endOfToday > thisDay ? " past" : "";
-		getFirstAvailableRow(monthTableBody).append('<div class="month-table-td no-event' + pastClass + '" id=' + id + '><div class=day>'+ (daynumber + 1) +'</div></div>');
+		getFirstAvailableRow(monthTable).append('<div class="month-table-td no-event' + pastClass + '" id=' + id + '><div class=day>'+ (daynumber + 1) +'</div></div>');
 	  });
 
 	  // Add empty days from next month
-	  var lastRow = monthTableBody.find('.month-table-tr:last');
+	  var lastRow = monthTable.find('.month-table-tr:last');
 	  var cellsInLastRow = lastRow.find('.month-table-td').length;
 	  // Check if this is necessary
 	  if ( cellsInLastRow < 7 ) {
