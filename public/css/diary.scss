@@ -71,6 +71,12 @@
 
   // want something a bit smaller than when the sidebar goes to the top?
 
+  .month-table {
+    border: none;
+
+    border-collapse: collapse;
+  }
+
   .month-table-tr.header {
     display: none;
   }
