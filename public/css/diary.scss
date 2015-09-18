@@ -67,12 +67,20 @@
 
 // rehash tables to be pseudo tables - should make rejigging easier?
 
-@media (max-width: 48em) {
+@media (max-width: 36em) {
 
-  // I think this should be the width to go list-type view (matches up with making side/topbar font smaller)
+  // want something a bit smaller than when the sidebar goes to the top?
 
   .month-table-tr.header {
     display: none;
+  }
+
+  .month-table-tr.days {
+    display: table-row-group;
+  }
+
+  .days .month-table-td {
+    display: table-row;
   }
 
 }
