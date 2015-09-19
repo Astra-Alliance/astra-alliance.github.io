@@ -1,4 +1,5 @@
 $(function() {
+	// test change
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
 	var weekdays   = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 	var today  = new Date();
@@ -140,8 +141,8 @@ $(function() {
 
 	function generateMonthTable(date) {
 	  var eventMonthName = monthNames[date.getMonth()];
-	  var monthTable     = $('<table cellspacing=0 class="month-table" data-month="' + date.getFullYear() + "-"  + eventMonthName + '" id="month-' + date.getMonth() + '"></table>');
-	  var monthTableBody = monthTable.append('<tbody>');
+	  var monthTable     = $('<div class="month-table" data-month="' + date.getFullYear() + "-"  + eventMonthName + '" id="month-' + date.getMonth() + '"></div>');
+	  // $("<div/>", {class: "etc", id: "etcetc"}) ?
 	  // var today          = new Date()
 	  var endOfToday     = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 0, 0, 0);
 	  var firstDay       = new Date(date.getFullYear(), date.getMonth(), 1);
@@ -152,16 +153,20 @@ $(function() {
 	  //monthTable.before('<h2 data-month="' + date.getFullYear() + '-' + eventMonthName + '">' + eventMonthName + ' ' + date.getFullYear() + '</h2>');
 
 	  // Add month calendar header
-	  monthTableBody.append('<tr class="header"></tr>');
-	  var headerRow = monthTableBody.find('.header');
+	  monthTable.append('<div class="header month-table-tr"></div>');
+	  var headerRow = monthTable.find('.header');
 	  loopForTimes( 7, function(i) {
-		headerRow.append('<td><h2>' + weekdays[i] + '</h2></td>');
+		headerRow.append('<div class="month-table-td"><h2>' + weekdays[i] + '</h2></div>');
 	  });
+
+	  // might to add in a week 1, 2, 3, 4 header to appear when the table is in a list format
+	  // then hide these by default and show when resized?
+	  // will need to change the getfristavailablerow function to check for length < 8
 
 	  // Add empty days from previous month
 	  var times = weekDayNumber === 0 ? 6 : weekDayNumber - 1;
 	  loopForTimes( times, function() {
-		getFirstAvailableRow(monthTable).append('<td class="empty"></td>');
+		getFirstAvailableRow(monthTable).append('<div class="empty month-table-td"></div>');
 	  });
 
 	  // Filling the month with days
@@ -169,36 +174,48 @@ $(function() {
 		var thisDay = new Date(date.getFullYear(), date.getMonth(), (daynumber + 1));
 		var id = formattedDate(thisDay);
 		var pastClass = endOfToday > thisDay ? " past" : "";
-		getFirstAvailableRow(monthTableBody).append('<td class="no-event' + pastClass + '" id=' + id + '><div class=day>'+ (daynumber + 1) +'</div></td>');
+		getFirstAvailableRow(monthTable).append('<div class="month-table-td no-event' + pastClass + '" id=' + id + '><div class=day>'+ (daynumber + 1) +'</div></div>');
 	  });
 
 	  // Add empty days from next month
-	  var lastRow = monthTable.find('tr:last');
-	  var cellsInLastRow = lastRow.find('td').length;
+	  var lastRow = monthTable.find('.month-table-tr:last');
+	  var cellsInLastRow = lastRow.find('.month-table-td').length;
 	  // Check if this is necessary
 	  if ( cellsInLastRow < 7 ) {
 		loopForTimes( (7 - cellsInLastRow), function() {
-		  lastRow.append('<td class="empty"></td>');
+		  lastRow.append('<div class="empty month-table-td"></div>');
 		});
 	  }
 	}
 
-	// Because I don't like ot write for()
+	// Because I don't like to write for()
 	function loopForTimes( times, callback ) {
 	  for( var i=0; i < times; i++ ){
 		callback(i);
 	  }
 	}
 
+	/*
+	  what about...
+
+	  for (i in object) {}
+
+	  or, with jQuery...
+
+	  $.each(object, function(i, val) {});
+
+	  ?
+	*/
+
 	// This is handy: getting the first row with available cell space
 	function getFirstAvailableRow( table ) {
-	  var row = table.find('tr.days').filter(function(i, thisRow) {
-		return ($(thisRow).find('td').length) < 7;
+	  var row = table.find('.month-table-tr.days').filter(function(i, thisRow) {
+		return ($(thisRow).find('.month-table-td').length) < 7;
 	  });
 	  // If no available row, create a new one
 	  if( row.length === 0 ) {
-		table.append('<tr class=days>');
-		row = table.find('tr').last();
+		table.append('<div class="days month-table-tr"/>');
+		row = table.find('.month-table-tr').last();
 	  }
 	  return row;
 	}

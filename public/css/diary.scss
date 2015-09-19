@@ -8,22 +8,17 @@
 .widget {
 	text-align: center;
 	width: 100%;
-	margin-left: -1rem;
-	margin-top: -0.5rem;
+	// margin-left: -1rem;
+	// margin-top: -0.5rem;
 }
 
 .widget * { -webkit-box-sizing: border-box; }
-
-.month-table {
-  margin: 0 auto;
-  border: 1px solid #ccefff;
-  padding: 0.1rem;
-}
 
 .widget h1 { font-size: 1.5rem; border-bottom: 1px solid #999; display: inline-block; }
 .widget h2 { font-size: 1.1rem; margin: 5px;}
 
 .month-menuitem {
+  width: 6rem;
   font-size: 0.8rem;
   padding: 6px;
   display: inline-block;
@@ -49,6 +44,7 @@
 }
 
 #cal-controls {
+  margin-bottom: 0.4rem;
 	a {
 		vertical-align: middle;
 		padding-bottom: 0.2rem;
@@ -59,12 +55,84 @@
   color: #47CCFC;
 }
 
-.widget td {
+/*  table    { display: table }
+    tr       { display: table-row }
+    thead    { display: table-header-group }
+    tbody    { display: table-row-group }
+    tfoot    { display: table-footer-group }
+    col      { display: table-column }
+    colgroup { display: table-column-group }
+    td, th   { display: table-cell }
+    caption  { display: table-caption }  */
+
+// rehash tables to be pseudo tables - should make rejigging easier?
+
+@media (max-width: 36em) {
+
+  // want something a bit smaller than when the sidebar goes to the top?
+
+  .month-table {
+    border: none !important;
+    border-collapse: collapse;
+  }
+
+  .month-table-tr.header {
+    display: none;
+  }
+
+  .month-table-tr.days {
+    outline: 1px solid #ccefff;
+
+    display: table-row-group;
+
+    font-size: 1.5rem;
+  }
+
+  .days .month-table-td {
+    display: table-row;
+  }
+
+  .month-table-td.no-event {
+    font-size: 0.7rem;
+  }
+
+  .event {
+    a {
+      font-size: 1.3rem !important;
+    }
+  }
+
+}
+
+.month-table {
+  width: 100%;
+
+  margin: 0 auto;
+  border: 1px solid #ccefff;
+  padding: 0.1rem;
+
+  display: table;
+  cellspacing: 0;
+}
+
+/*.month-table-body {
+  display: table-row-group;
+}*/
+
+.month-table-tr {
+  display: table-row;
+}
+
+.month-table-td {
+  display: table-cell;
+}
+
+.widget .month-table-td {
   vertical-align: top;
   max-width: percentage(1/7);
 }
 
-.header td {
+.header .month-table-td {
   padding: 0.4rem;
   border-bottom: 1px solid #e0e0e0;
   text-align: center;
@@ -76,13 +144,13 @@
   }
 }
 
-.days td {
+.days .month-table-td {
   padding-top: 2px;
   min-height: 40px;
   border-bottom: 1px solid #f0f0f0;
 }
 
-.days:last-child td {
+.days:last-child .month-table-td {
   border-bottom: 0;
 }
 
