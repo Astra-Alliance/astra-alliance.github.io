@@ -64,7 +64,13 @@ $(function() {
 	function appendEvent(event, index) {
 	  var eventStartDate = new Date(event.startdate);
 	  var eventEndDate   = new Date(event.enddate);
-	  var eventElement   = $('<div class="event"><a href="#">' + event.name + '</a></div>');
+	  var eventElement;
+	  
+	  if (event.cssclass) {
+		eventElement = $('<div class="event ' + event.cssclass + '"><a class="' + event.cssclass + '" href="#">' + event.name + '</a></div>');
+	  } else {
+		eventElement = $('<div class="event"><a href="#">' + event.name + '</a></div>');  
+	  }
 
 	  if (event.details) {
 		  var eventDetails = $('<div/>', {

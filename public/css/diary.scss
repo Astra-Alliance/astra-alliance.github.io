@@ -219,6 +219,22 @@
   border-bottom: 2px #CCF4FF solid;
 }
 
+div.nqt-event {
+  background: rgba(230,0,0,0.2);
+  margin-left: -2px;
+  margin-right: -2px;
+}
+
+a.nqt-event {
+  font-weight: bold;
+  color: #FFFFFF;
+  border: none;
+}
+
+a.nqt-event:hover {
+  color: #FFFFFF;
+}
+
 .multi-days a { border: 0; }
 .multi-days a:hover { color: #000; }
 
