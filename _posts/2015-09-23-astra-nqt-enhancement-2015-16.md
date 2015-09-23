@@ -34,9 +34,9 @@ Concluding keynote by __John Neal__: Coaching for Performance
 Successful performance is all about each individual developing the ability to acquire and apply relevant knowledge in a way that inspires and motivates students, especially under pressure and when it really matters.  John works as a performance coach throughout the world and has combined an highly successful 20 year career working at the top level in sport, business and the military.  He has worked with a wide range of clients including, Ashridge Business School, and he always instills a passion for the process of success. 
 
 ##SESSION TWO: STRESS AND TIME MANAGEMENT
-####Thursday 12th November from 4.15-5.30pm at CHESHAM GRAMMAR SCHOOL
+####Thursday 12th November from 4.15-5.30pm at Chesham Grammar School
 
-Not only will all Astra NQTs who attend this event be given a coveted Astra stress ball, they will also be provided with practical tools and tips to help manage the inevitable stresses of the first year of 'proper' teaching.
+Not only will all Astra NQTs who attend this event be given a coveted __Astra stress ball__, they will also be provided with practical tools and tips to help manage the inevitable stresses of the first year of 'proper' teaching.
 
 Building on the 'mindfulness' and well-being work of psychologists such as Emma Judge, facilitators will be on hand to help NQTs build resilience and grow self-awareness when dealing with stressful situations.  Techniques for effective time management and personal organisation will also be covered, as well as key tips such as how to manage marking, prioritise and learning how to say 'no'!</td>
 
