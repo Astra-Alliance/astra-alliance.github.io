@@ -12,7 +12,7 @@ published: true
 
 The Astra Enhancement programme provides **high-quality, innovative and cost-effective support to NQTs** across a wide range of schools in Buckinghamshire.
 
-The programme enables and encourages **peer support and networking**, as well as providing training for NQTs from **experienced practitioners, researchers and educational experts **from across the country.  A fee of £50 per NQT is payable for the whole programme, reflecting our commitment to** low cost, non-profit and high quality training for all**.  This year, we are delighted to welcome new speakers and facilitators, including **Professor Guy Claxton, John Neal **and** Victoria Pritchard.  **Participants on last year?s programme commented that the Enhancement sessions were**;**
+The programme enables and encourages **peer support and networking**, as well as providing training for NQTs from **experienced practitioners, researchers and educational experts** from across the country.  A fee of £50 per NQT is payable for the whole programme, reflecting our commitment to** low cost, non-profit and high quality training for all**.  This year, we are delighted to welcome new speakers and facilitators, including __Professor Guy Claxton__, __John Neal__ and __Victoria Pritchard__. Participants on last year's programme commented that the Enhancement sessions were;
 
 >"... __incredibly well run by dedicated and supported staff__, providing a variety of meetings, events and sessions designed to support our professional development."
 
