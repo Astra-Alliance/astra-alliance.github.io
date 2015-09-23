@@ -22,10 +22,10 @@ sass:
   style: 				compressed
 
 lsi:					true
-post_assets:			public/assets
 
 # Custom vars
 version:				1.0.0
+post_assets:			public/assets
 
 github:
   repo:					https://github.com/Astra-Alliance/astra-alliance.github.io
