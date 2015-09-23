@@ -38,7 +38,7 @@ Successful performance is all about each individual developing the ability to ac
 
 Not only will all Astra NQTs who attend this event be given a coveted Astra stress ball, they will also be provided with practical tools and tips to help manage the inevitable stresses of the first year of ?proper? teaching.
 
-Building on the 'mindfulness' and well-being work of psychologists such as Emma Judge, facilitators will be on hand to help NQTs build resilience and grow self-awareness when dealing with stressful situations.  Techniques for effective time management and personal organisation will also be covered, as well as key tips such as how to manage marking, prioritise and learning how to say ?no?!</td>
+Building on the 'mindfulness' and well-being work of psychologists such as Emma Judge, facilitators will be on hand to help NQTs build resilience and grow self-awareness when dealing with stressful situations.  Techniques for effective time management and personal organisation will also be covered, as well as key tips such as how to manage marking, prioritise and learning how to say 'no'!</td>
 
 ##SESSION THREE: VOICE COACHING
 ####8th December 2015 from 4.15-5.30pm at Dr Challoner'?'s Grammar School (HP6 5HA)
@@ -47,9 +47,9 @@ Facilitated by __Victoria Pritchard__: VOICE EXPERT AND COMMUNICATION AND PRESEN
 
 > "A fool may talk, but a wise man speaks!"
 
-Using the voice and using it well, are essential to all areas of business; how we use the voice can directly influence the outcome of our working life.  Whether it is about using the voice to ensure that our message is remembered or simply about feeling heard, voice coaching can add a huge amount to your confidence and personal impact in the classroom.  This voice coaching session covers vocal areas from breathing and projection, to clarity and energy in the voice. It also offers help and advice on dealing with nerves and gives the participants a chance to really understand why their ?voice? matters.
+Using the voice and using it well, are essential to all areas of business; how we use the voice can directly influence the outcome of our working life.  Whether it is about using the voice to ensure that our message is remembered or simply about feeling heard, voice coaching can add a huge amount to your confidence and personal impact in the classroom.  This voice coaching session covers vocal areas from breathing and projection, to clarity and energy in the voice. It also offers help and advice on dealing with nerves and gives the participants a chance to really understand why their 'voice' matters.
 
-Victoria has spent 17 years as a professional actress, communication trainer and voice coach. She has worked extensively in theatre, television and film both in the UK and abroad. She has recently featured in Eastenders, Hollyoaks and Emmerdale but is most recognised for her regular roles in ?Holby City?, ?Bad Girls?  and adverts for Ocean Spray cranberry juice!  Victoria has worked with companies all over the world and in 2004 was invited to take her training programme to America to introduce her techniques to teachers in the US.  She also works regularly as a voice over artist and presenter for television and corporate video.
+Victoria has spent 17 years as a professional actress, communication trainer and voice coach. She has worked extensively in theatre, television and film both in the UK and abroad. She has recently featured in Eastenders, Hollyoaks and Emmerdale but is most recognised for her regular roles in 'Holby City', 'Bad Girls'  and adverts for Ocean Spray cranberry juice!  Victoria has worked with companies all over the world and in 2004 was invited to take her training programme to America to introduce her techniques to teachers in the US.  She also works regularly as a voice over artist and presenter for television and corporate video.
 
 ##SESSION FOUR: WHAT IS GOOD TEACHING?
 ####14th January 2016 from 4.15-5.30pm at The Beaconsfield School (HP9 1SJ)
@@ -70,32 +70,34 @@ There will also be a plenary session at the end, bringing ideas together.
 
 __REVISION STRATEGIES FOR STUDENTS__: A timely session aimed at helping NQTs from a range of subject areas to get the most out of the time before examinations, both internal and external.  The session will focus on how to enable students to revise topics most effectively, allowing for individual learning styles.
 
-__DATA AND INFORMATION LITERACY FOR TEACHERS__: Now, more than ever before, the collection, handling and interpretation of data is becoming an essential part of any successful teacher?s toolkit. This session will delve into some principles, tips and techniques to help you efficiently work with data in the classroom. It will range for how best to set up data collection/storage markbooks to the best ways to present that data to help improve insight and decision making at all levels.
+__DATA AND INFORMATION LITERACY FOR TEACHERS__: Now, more than ever before, the collection, handling and interpretation of data is becoming an essential part of any successful teacher's toolkit. This session will delve into some principles, tips and techniques to help you efficiently work with data in the classroom. It will range for how best to set up data collection/storage markbooks to the best ways to present that data to help improve insight and decision making at all levels.
 
 ##SESSION SIX: HIGHER ORDER THINKING SKILLS
 ####12th May 2016 from 4.15-5.30pm at The Misbourne School (HP16 0BN)
 
 Michelle is passionate about developing the imagination of students and equipping them with the necessary tools to become inquisitive and creative thinkers.  She has extensive experience in supporting and leading colleagues in schools in challenging circumstances and is well equipped to offer leadership support as well as teaching and learning more generally.  She currently provides ongoing support and coaching for teachers and runs a range of whole school CPD programmes focused on raising standards of whole school teaching and learning.
 
-During this practical, active and lively session, Michelle will provide a detailed and coherent introduction to Higher Order Thinking, as well as dialogic approaches and the use of questioning.  She will also explore how to most effectively use Bloom?s Revised Taxonomy and Higher Order Thinking/Planning with Bloom/Socratic questioning and there will also be time for sharing classroom strategies and activities.  The session will encourage students to solve problems more independently and to think creatively, producing and generating new ideas and knowledge, making decisions and analysing and evaluating information and ideas.
+During this practical, active and lively session, Michelle will provide a detailed and coherent introduction to Higher Order Thinking, as well as dialogic approaches and the use of questioning.  She will also explore how to most effectively use Bloom's Revised Taxonomy and Higher Order Thinking/Planning with Bloom/Socratic questioning and there will also be time for sharing classroom strategies and activities.  The session will encourage students to solve problems more independently and to think creatively, producing and generating new ideas and knowledge, making decisions and analysing and evaluating information and ideas.
 
 ##SESSION SEVEN: CELEBRATION EVENT ON BUILDING LEARNING POWER, LED BY PROFESSOR GUY CLAXTON / NQT 'WIGT' POSTER PRESENTATIONS
 ####Wednesday 29th June 2016 from 1-4pm at Dr Challoner?s Grammar School, including hot buffet lunch (HP6 5HA)
 
 > "Unlike most education initiatives, [Building Learning Power](http://www.buildinglearningpower.com/) stops being something you do but becomes something you are."
 
-We are absolutely thrilled to welcome Professor Guy Claxton to DCGS to speak to our Astra trainees as they reach the end of their first year of ?proper? teaching.   Watch a preview of Claxton speaking [here](ttps://www.youtube.com/watch?v=WlYRhoWtoiM)
+We are absolutely thrilled to welcome Professor Guy Claxton to DCGS to speak to our Astra trainees as they reach the end of their first year of 'proper' teaching.   Watch a preview of Claxton speaking [here](ttps://www.youtube.com/watch?v=WlYRhoWtoiM)
 
-Professor Claxton is also an internationally renowned writer, consultant and academic specialising in creativity, education and the mind.  He has a double first in Natural Science from Cambridge, a doctorate in cognitive psychology from Oxford and is a Fellow of the British Psychological Society. He is perhaps best known for his work on Building Learning Power, which aims to develops students? portable learning habits, prepare young people for a lifetime of learning and enhance students? progress and schools? results.  The concept emerged during the 1980s and 90s as a way of describing the form of intelligence possessed by someone who, to quote Jean Piaget's phrase, ??knows what to do when they don't know what to do."   
+Professor Claxton is also an internationally renowned writer, consultant and academic specialising in creativity, education and the mind.  He has a double first in Natural Science from Cambridge, a doctorate in cognitive psychology from Oxford and is a Fellow of the British Psychological Society. He is perhaps best known for his work on Building Learning Power, which aims to develops students' portable learning habits, prepare young people for a lifetime of learning and enhance students' progress and schools' results.  The concept emerged during the 1980s and 90s as a way of describing the form of intelligence possessed by someone who, to quote Jean Piaget's phrase;
+
+> "knows what to do when they don't know what to do."   
 
 NQTs WILL ALSO BE ASKED TO PRESENT THEIR REFLECTIONS FOLLOWING THE WIGT SESSION (on 14th January) TO THEIR PEERS via a poster presentation.
 
 ##ASTRA NQT CELEBRATION AFTERNOON
 ####1st JULY 2015
 
-With the temperatures set to soar to around 35 degrees on Wednesday 1st July 2015, we soon realised that the **?hot buffet? **on offer for our 22 Astra NQTs (newly qualified teachers) to celebrate their achievements over the year had taken on a new, and quite literal, meaning!   
+With the temperatures set to soar to around 35 degrees on Wednesday 1st July 2015, we soon realised that the **hot buffet** on offer for our 22 Astra NQTs (newly qualified teachers) to celebrate their achievements over the year had taken on a new, and quite literal, meaning!   
 
-However, despite the heat outside, our 22 NQTs inside were cool under the ?pressure? to deliver their **mini-research presentations** from their NQT year in five minutes on topics as diverse as the use of technology to the challenges of differentiation.  Arriving at 1pm for a lunch and having time to **network as well as evaluate the Enhancement course**, conversations were lively and the mood understandably positive: after all, they had all flourished and survived not only their first year as ?proper? teachers, but also been our **inaugural cohort of the Astra Enhancement programme**!
+However, despite the heat outside, our 22 NQTs inside were cool under the "pressure" to deliver their **mini-research presentations** from their NQT year in five minutes on topics as diverse as the use of technology to the challenges of differentiation.  Arriving at 1pm for a lunch and having time to **network as well as evaluate the Enhancement course**, conversations were lively and the mood understandably positive: after all, they had all flourished and survived not only their first year as 'proper' teachers, but also been our **inaugural cohort of the Astra Enhancement programme**!
 
 ![image alt text]({{ site.url }}/public/assets/1fIvA8L-MV9feCjlPQXkQxSnylWCzrn8d-TdPE_bzezY-image_1.jpg)
 
@@ -107,4 +109,4 @@ As a programme of **two half days and 5 twilight sessions, run at no cost and no
 
 The results and evaluation evidence is both compelling and powerful, with one NQT commenting, "**_meeting other NQT students (including those from my own school) and sharing practice and experiences, as well as positive support from Astra organisers_**" as being particular highlights.  
 
-To ensure all participants felt suitably inspired for the years of teaching and leadership ahead, we were also joined by our keynote speaker, **John Neal from Ashridge Business School**, who spoke in an animated and thought-provoking way about the **importance of knowing your own strengths and weaknesses**. As a sports psychologist, his message of the **power of the perceptions and the importance of self-reflection** received a hearty round of applause, with many NQTs ?buzzing? with new ideas and inspiration.
+To ensure all participants felt suitably inspired for the years of teaching and leadership ahead, we were also joined by our keynote speaker, **John Neal from Ashridge Business School**, who spoke in an animated and thought-provoking way about the **importance of knowing your own strengths and weaknesses**. As a sports psychologist, his message of the **power of the perceptions and the importance of self-reflection** received a hearty round of applause, with many NQTs 'buzzing' with new ideas and inspiration.
