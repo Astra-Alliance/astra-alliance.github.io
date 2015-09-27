@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This site brings together training resources, links, informative posts and diary events for trainee teachers studying with the [Astra Alliance](http://www.astra-alliance.com).
+This site brings together training resources, links, informative posts and diary events for trainee & newly qualified teachers studying with the [Astra Alliance](http://www.astra-alliance.com).
+
+All trainee teacher cotent is colour coded in 'blue', but content for newly qualified teachers (NQTs) is highlighted in 'red' (including diary events).
 
 ## Useful Links
 

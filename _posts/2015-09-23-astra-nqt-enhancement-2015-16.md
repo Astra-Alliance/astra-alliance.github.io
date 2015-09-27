@@ -38,7 +38,7 @@ Successful performance is all about each individual developing the ability to ac
 
 Not only will all Astra NQTs who attend this event be given a coveted __Astra stress ball__, they will also be provided with practical tools and tips to help manage the inevitable stresses of the first year of 'proper' teaching.
 
-Building on the 'mindfulness' and well-being work of psychologists such as Emma Judge, facilitators will be on hand to help NQTs build resilience and grow self-awareness when dealing with stressful situations.  Techniques for effective time management and personal organisation will also be covered, as well as key tips such as how to manage marking, prioritise and learning how to say 'no'!</td>
+Building on the 'mindfulness' and well-being work of psychologists such as Emma Judge, facilitators will be on hand to help NQTs build resilience and grow self-awareness when dealing with stressful situations.  Techniques for effective time management and personal organisation will also be covered, as well as key tips such as how to manage marking, prioritise and learning how to say 'no'!
 
 ##SESSION THREE: VOICE COACHING
 ####8th December 2015 from 4.15-5.30pm at Dr Challoner's Grammar School (HP6 5HA)

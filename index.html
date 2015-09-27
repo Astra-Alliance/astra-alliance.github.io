@@ -4,20 +4,24 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content | strip_html | truncate:250 }}
-	{% if post.content | size > 250 %}
-	  <strong><em> <a href="{{ post.url }}">Read more</a></em></strong>
-	{% endif %}
-  </div>
-  {% endfor %}
+	{% for post in paginator.posts %}
+	<div class="post">
+		{% if post.tags contains "nqt" %}
+		<h1 class="post-title nqt">
+		{% else %}
+		<h1 class="post-title">
+		{% endif %}
+		  <a href="{{ post.url }}">
+			{{ post.title }}
+		  </a>
+		</h1>
+		<span class="post-date">{{ post.date | date_to_string }}</span>
+		{{ post.content | strip_html | truncate:250 }}
+		{% if post.content | size > 250 %}
+		  <strong><em> <a href="{{ post.url }}">Read more</a></em></strong>
+		{% endif %}
+	  </div>
+	  {% endfor %}
 </div>
 
 <div class="pagination">
