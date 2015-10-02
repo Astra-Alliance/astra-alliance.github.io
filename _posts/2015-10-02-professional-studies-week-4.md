@@ -1,0 +1,18 @@
+---
+title: Professional Studies - Week 4
+layout: post
+author: Amy Davis
+permalink: /professional-studies-week-4/
+tags:
+- professional-studies
+source-id: 1g_dFGhBmggjCUXB0OlWebGBqRCKCt8OT1V6-8EhvQWw
+published: true
+---
+On Thursday 1st October, all of the Astra trainees met at Dr Challoner's Grammar School for our Professional Studies session.
+
+First we heard from Lindsey Ashton, who teaches Spanish and French, and Ray Healy, who teaches Maths, on the topic of behaviour management. Both speakers introduced us to various approaches to behaviour management that they had developed during their time as teachers. For example, Ray said that he always made sure to learn the names of every pupil in a new class by using his seating plan, even before the very first lesson. Lindsey emphasised that it is important to set the tone of the lesson as early as possible, creating a friendly but respectful atmosphere, and greeting the pupils at the door if possible. One useful tip was the idea of always having a back-up plan for if there is a problem with resources or IT at the beginning of a lesson - it's good to have an activity in mind that doesn?t need a projector or any materials to give you some thinking space. Lindsey also talked about how one of her concerns when she started teaching was how to regain control in a noisy classroom environment. She mentioned how losing your voice is a very real danger for trainee teachers. Instead, she advised us to work on using body language and eye contact in our behaviour management, and even to try talking more quietly once we have got the class?s attention in order to make them listen in attentively.
+
+Key words for both Lindsey and Ray were **expectations **as well as **consistency. **It was particularly interesting to hear Lindsey's perspective since she teaches Modern Foreign Languages, which brings unique challenges. She stressed that clear instructions are essential, and that teachers should re-evaluate their usual instruction routines; having to say instructions in French and Spanish made Lindsey do this early on in her career! Ray then spoke about how in his view, classroom management, the 'nuts and bolts of it?, is the most important thing in teaching; without that happening, nothing else will get done. He explained the wider implications of this, saying that the children, the parents, and you as a teacher will be unhappy if you don?t work on this area. In general, we learned from this session that you might spend more time planning for behaviour than planning the detailed content of lessons. After hearing Ray and Lindsey?s presentations, we were able to see how teacher credibility, which we will hopefully build throughout our time as trainees, will enable us to have more fruitful and respectful relationships with our classes.
+
+After a short break we moved on to a session on the use of IT in the classroom, delivered by James, Technology Director at DCGS. He explained that studies on technology in schools and achievement have recently shown that increasing how much we use technology, and how much schools spend on it, does not necessarily have a **positive impact** on pupils' achievement. This was very thought-provoking and led into a discussion about how we could add technology to good classroom practice, to make existing routines and activities more engaging and efficient, as well as exploring the potential of new apps like Google Classroom. Using our Chromebooks, all the trainees were able to simultaneously edit and add to a list of potential uses of IT in the classroom - using collaborative IT to talk about collaborative IT! This was a useful exercise and allowed us all to share our experiences of discovering new apps and ways of using technology.
+
