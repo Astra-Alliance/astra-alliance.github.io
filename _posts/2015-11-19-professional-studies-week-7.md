@@ -1,5 +1,5 @@
 ---
-title: Professional Studies - Week 6
+title: Professional Studies - Week 7
 layout: post
 author: Tom Pike
 permalink: /professional-studies-week-7/
