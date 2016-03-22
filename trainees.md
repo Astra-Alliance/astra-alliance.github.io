@@ -1,13 +1,13 @@
 ---
 layout: page
-title: For NQTs
-permalink: /nqts/
+title: For Trainees
+permalink: /trainees/
 highlight: true
 tags:
-- nqt
+- trainee
 - instructions
 ---
 
-{% for post in site.tags['nqt'] %}
+{% for post in site.tags['trainee'] %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}

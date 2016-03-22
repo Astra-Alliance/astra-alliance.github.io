@@ -4,6 +4,7 @@ title: Roles and Expectations
 tags:
 - guidance
 - instructions
+- trainee
 published: true
 author: SRO
 permalink: /roles-and-expectations/

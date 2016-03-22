@@ -4,18 +4,18 @@
 @import 'variables';
 
 .theme-base-astra .sidebar {
-  background-color: $theme-nqt-base;
+  background-color: $theme-mentor-base;
 }
 
 .theme-base-astra .content a,
 .theme-base-astra .related-posts li a:hover {
-  color: $theme-nqt-base;
+  color: $theme-mentor-base;
 }
 
 .theme-base-astra .icon path {
-	fill: $theme-nqt-highlight;
+	fill: $theme-mentor-highlight;
 }
 
 .theme-base-astra .icon path.inverted {
-	fill: $theme-nqt-base;	
+	fill: $theme-mentor-base;	
 }

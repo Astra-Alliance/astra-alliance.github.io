@@ -6,6 +6,7 @@ tags:
 - technology
 - chromebooks
 - instructions
+- trainee
 published: true
 author: JD
 permalink: /chromebooks/

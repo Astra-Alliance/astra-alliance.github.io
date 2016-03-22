@@ -1,5 +1,5 @@
 # Dependencies
-markdown:				kramdown
+markdown:				  kramdown
 highlighter:			pygments
 
 # Permalinks
@@ -7,32 +7,39 @@ permalink:				pretty
 # relative_permalinks:	true
 
 # Setup
-title:					Astra Alliance
-tagline:				"Training & Resources"
-nqt_tagline:			"NQT Training Year"
+title:					  Astra
+byline:           Training
+tagline:
+  normal:         "Training & Resources"
+  nqt:            "NQT Training Year"
+  mentor:         "Training for ITT Mentors"
+  trainee:        "Resources for Trainees"
+  
 description:			"Teacher Training Materials, Diary & Resources for the Astra Alliance"
-url:					http://training.astra-alliance.com
-baseurl:				/
+url:					    http://training.astra-alliance.com
+baseurl:				  /
 author:
-  name:					"JD"
-  url:					https://github.com/astra-alliance
+  name:					  "Astra Alliance"
+  url:					  https://github.com/astra-alliance
 
-paginate:				3
+gems: [jekyll-paginate]
+
+paginate:				  4
+paginate_path:    "num"
 sass:
-  style: 				compressed
-
-lsi:					true
+  style: 				  compressed
+lsi:					    true
 
 # Custom vars
-version:				1.0.0
+version:				  1.0.0
 post_assets:			public/assets
 
 github:
-  repo:					https://github.com/Astra-Alliance/astra-alliance.github.io
+  repo:					  https://github.com/Astra-Alliance/astra-alliance.github.io
   
 social:
-  web:					http://www.astra-alliance.com
+  web:					  http://www.astra-alliance.com
   twitter:				https://twitter.com/astraalliance
   facebook:				https://www.facebook.com/pages/Astra-Alliance/674390952683304
   linkedin:				https://www.linkedin.com/company/astra-teacher-training
-  github:				https://github.com/Astra-Alliance
+  github:				  https://github.com/Astra-Alliance

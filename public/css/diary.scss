@@ -1,6 +1,8 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
+@import 'variables';
+
 .page {
 	width: auto;
 }
@@ -219,20 +221,38 @@
   border-bottom: 2px #CCF4FF solid;
 }
 
-div.nqt-event {
-  background: rgba(230,0,0,0.2);
+div.nqt-event, div.trainee-event, div.mentor-event {
   margin-left: -2px;
   margin-right: -2px;
 }
 
-a.nqt-event {
+a.nqt-event, a.trainee-event, a.mentor-event {
   font-weight: bold;
-  color: #FFFFFF;
   border: none;
 }
 
-a.nqt-event:hover {
-  color: #FFFFFF;
+div.nqt-event {
+  background: $theme-nqt-diary;
+}
+
+a.nqt-event, a.nqt-event:hover  {
+  color: $theme-nqt-highlight;
+}
+
+div.trainee-event {
+  background: $theme-trainee-diary;
+}
+
+a.trainee-event, a.trainee-event:hover  {
+  color: $theme-trainee-highlight;
+}
+
+div.mentor-event {
+  background: $theme-mentor-diary;
+}
+
+a.mentor-event, a.mentor-event:hover  {
+  color: $theme-mentor-highlight;
 }
 
 .multi-days a { border: 0; }

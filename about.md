@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+highlight: true
 ---
 
 This site brings together training resources, links, informative posts and diary events for trainee & newly qualified teachers studying with the [Astra Alliance](http://www.astra-alliance.com).
@@ -34,5 +35,3 @@ You can get in touch with us in the following ways:
 * [LinkedIn]({{ site.social.linkedin }})
 * [Web]({{ site.social.web }})
 * [GitHub]({{ site.social.github }})
-
-Thanks for reading!

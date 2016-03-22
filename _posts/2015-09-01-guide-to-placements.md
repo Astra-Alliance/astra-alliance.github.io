@@ -4,6 +4,8 @@ title: Guide to Placements
 tags:
 - guidance
 - instructions
+- trainee
+- mentor
 published: true
 author: SRO
 permalink: /guide-to-placements/

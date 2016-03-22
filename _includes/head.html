@@ -8,7 +8,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} &middot; {{ site.byline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
@@ -38,7 +38,11 @@
   {% endif %}
 
   {% if page.tags contains 'nqt' %}
-	<link rel="stylesheet" type="text/css" href="{{ "public/css/nqt.css" | prepend: site.baseurl }}">
+	  <link rel="stylesheet" type="text/css" href="{{ "public/css/nqt.css" | prepend: site.baseurl }}">
+  {% elsif page.tags contains 'mentor' %}
+    <link rel="stylesheet" type="text/css" href="{{ "public/css/mentor.css" | prepend: site.baseurl }}">
+  {% elsif page.tags contains 'trainee' %}
+    <link rel="stylesheet" type="text/css" href="{{ "public/css/trainee.css" | prepend: site.baseurl }}">
   {% endif %}
 
 </head>

@@ -36,6 +36,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 @import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400);
+@import 'variables';
 
 html {
   font-family: "Lato", Helvetica, Arial, sans-serif;
@@ -269,11 +270,11 @@ a.sidebar-nav-item:focus {
 
 /* Astra Blue */
 .theme-base-astra .sidebar {
-  background-color: #163b66;
+  background-color: $theme-normal-base;
 }
 .theme-base-astra .content a,
 .theme-base-astra .related-posts li a:hover {
-  color: #163b66;
+  color: $theme-normal-base;
 }
 
 .theme-base-astra .content .nqt a {
@@ -293,10 +294,10 @@ a.sidebar-nav-item:focus {
 	margin-right: 10px;
 }
 .theme-base-astra .icon path {
-	fill: #828282;	
+	fill: $theme-normal-highlight;	
 }
 .theme-base-astra .icon path.inverted {
-	fill: #163b66;	
+	fill: $theme-normal-base;	
 }
 .tag-cloud {
   list-style: none;
