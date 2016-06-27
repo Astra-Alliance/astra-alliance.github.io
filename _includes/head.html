@@ -15,6 +15,10 @@
   </title>
   <meta name="description" content="{{ site.description }}">
 
+	<!-- CSS Fonts -->
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,400,700">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Libre+Baskerville:400">
+
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/syntax.css">
@@ -27,21 +31,25 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 	
-  {% if page.title == "Diary" %}
+  {% if page.title == "Diary" or page.title == "ITT Diary" %}
   <!-- Diary -->
   <link rel="stylesheet" type="text/css" href="{{ "public/css/diary.css" | prepend: site.baseurl }}">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script type="text/javascript" src="{{ "public/js/jquery.popupoverlay.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "public/js/tabletop.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "public/js/sheetsee.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "public/js/moment.min.js" | prepend: site.baseurl }}"></script>
+	<!-- <script type="text/javascript" src="{{ "public/js/tabletop.js" | prepend: site.baseurl }}"></script> -->
+  <!-- <script type="text/javascript" src="{{ "public/js/sheetsee.js" | prepend: site.baseurl }}"></script> -->
   <script type="text/javascript" src="{{ "public/js/diary.js" | prepend: site.baseurl }}"></script>
+	{% elsif page.title == "ITT Diary" %}
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ "public/js/new_diary.js" | prepend: site.baseurl }}"></script>
   {% endif %}
 
-  {% if page.tags contains 'nqt' %}
+  {% if page.tags contains "nqt" %}
 	  <link rel="stylesheet" type="text/css" href="{{ "public/css/nqt.css" | prepend: site.baseurl }}">
-  {% elsif page.tags contains 'mentor' %}
+  {% elsif page.tags contains "mentor" %}
     <link rel="stylesheet" type="text/css" href="{{ "public/css/mentor.css" | prepend: site.baseurl }}">
-  {% elsif page.tags contains 'trainee' %}
+  {% elsif page.tags contains "trainee" %}
     <link rel="stylesheet" type="text/css" href="{{ "public/css/trainee.css" | prepend: site.baseurl }}">
   {% endif %}
 
