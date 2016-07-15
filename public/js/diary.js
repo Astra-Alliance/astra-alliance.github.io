@@ -32,6 +32,7 @@ $(function() {
 		});
 		generateAllTheMonths(eventData);
 		eventData.forEach(function(event, index) {
+			console.log(event);
 			appendEvent(event, index);
 		});
 
@@ -72,7 +73,7 @@ $(function() {
 
 		if (event.extendedProperties.shared.Type) {
 			var _class = event.extendedProperties.shared.Type.split(" ").join("_").toLowerCase();
-			eventElement = $('<div class="event ' + _class + '"><a class="' + _class + '" href="#">' + event.summary + '</a></div>');
+			eventElement = $('<div class="event ' + _class + '"><a class="' + _class + '" href="#">' + event.summary + (!allDay(event.start) ? " // " + moment(event.start.dateTime).format("HH:mm") + " - " + moment(event.end.dateTime).format("HH:mm") : "") + '</a></div>');
 		} else {
 			eventElement = $('<div class="event"><a href="#">' + event.summary + '</a></div>');
 		}
@@ -84,7 +85,7 @@ $(function() {
 			}).appendTo(eventElement);
 			$('<div/>', {
 				class: "date",
-				text: eventStartDate.toDateString()
+				text: eventStartDate.toDateString() + (!allDay(event.start) ? " // " + moment(event.start.dateTime).format("HH:mm") + " - " + moment(event.end.dateTime).format("HH:mm") : "")
 			}).appendTo(eventDetails);
 
 			var lines = event.description.split("||");
@@ -235,6 +236,10 @@ $(function() {
 		return date.getFullYear() + '-' + monthNames[date.getMonth()] + '-' + date.getDate();
 	}
 
+	function allDay(event_Date) {
+		return Boolean(event_Date.date);
+	}
+	
 	function getDate(event_Date) {
 		return event_Date.date ?
 			moment(event_Date.date, "YYYY-MM-DD").toDate() : moment(event_Date.dateTime).toDate();
