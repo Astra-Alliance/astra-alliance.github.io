@@ -71,7 +71,7 @@ $(function() {
 		var eventEndDate = getDate(event.end);
 		var eventElement;
 
-		if (event.extendedProperties.shared && event.extendedProperties.shared.Type) {
+		if (event.extendedProperties && event.extendedProperties.shared && event.extendedProperties.shared.Type) {
 			var _class = event.extendedProperties.shared.Type.split(" ").join("_").toLowerCase();
 			eventElement = $('<div class="event ' + _class + '"><a class="' + _class + '" href="#">' + event.summary + (!allDay(event.start) ? " // " + moment(event.start.dateTime).format("HH:mm") + " - " + moment(event.end.dateTime).format("HH:mm") : "") + '</a></div>');
 		} else {
@@ -95,7 +95,7 @@ $(function() {
 				}).appendTo(eventDetails);
 			}
 			if (event.location) {
-				if (event.extendedProperties.shared["Location Url"]) {
+				if (event.extendedProperties && event.extendedProperties.shared["Location Url"]) {
 					$('<div/>', {
 						class: "location"
 					}).append($("<a/>", {text: event.location}).attr("target", "_blank")
