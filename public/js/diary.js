@@ -71,11 +71,11 @@ $(function() {
 		var eventEndDate = getDate(event.end);
 		var eventElement;
 
-		if (event.extendedProperties.shared.Type) {
+		if (event.extendedProperties.shared && event.extendedProperties.shared.Type) {
 			var _class = event.extendedProperties.shared.Type.split(" ").join("_").toLowerCase();
 			eventElement = $('<div class="event ' + _class + '"><a class="' + _class + '" href="#">' + event.summary + (!allDay(event.start) ? " // " + moment(event.start.dateTime).format("HH:mm") + " - " + moment(event.end.dateTime).format("HH:mm") : "") + '</a></div>');
 		} else {
-			eventElement = $('<div class="event"><a href="#">' + event.summary + '</a></div>');
+			eventElement = $('<div class="event"><a href="#">' + event.summary + (!allDay(event.start) ? " // " + moment(event.start.dateTime).format("HH:mm") + " - " + moment(event.end.dateTime).format("HH:mm") : "") + '</a></div>');
 		}
 
 		if (event.description) {
