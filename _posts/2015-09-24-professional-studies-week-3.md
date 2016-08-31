@@ -4,7 +4,7 @@ layout: post
 tags:
 - professional-studies
 author: James Stephenson
-published: true
+published: false
 ---
 The third session of our in-school Professional Studies programme was held at The Misbourne School on 24th September 2015, bringing together all 16 of the Astra trainees from across 7 partner schools. It was a timely and welcome opportunity to focus on __behaviour management and differentiation__.  Mr Dave Pollitt, the Misbourne’s Assistant Headteacher for Inclusion, kicked off proceedings by revealing the best strategies he has found for behaviour management over his extensive career.  As you can imagine, all trainees leaned in very closely in order to soak up the wisdom of his experience and advice!
 
