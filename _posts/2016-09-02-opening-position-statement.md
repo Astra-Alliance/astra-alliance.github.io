@@ -9,9 +9,9 @@ published: true
 author: SRO
 permalink: /opening-position-statement/
 ---
-Reading University require that you complete an _Opening Position Statement_ when you begin your course. If you haven't done this yet, please read the following directions (from Reading) and go do it!
+You are required to complete an _Opening Position Statement_ when you begin your course. If you haven't done this yet, please go and do it!
 
-> Please ensure that you send a copy of this Statement to the Course Leader at least 1 week before the course starts.  
+  
 
 >Your Opening Position Statement may take the form of a series of brief paragraphs or, if you prefer, a number of bullet points addressing the following questions: 
 
@@ -23,4 +23,4 @@ Reading University require that you complete an _Opening Position Statement_ whe
 > * What personal targets do I intend to set myself for the year to come? 
 > * What are my current expectations of, attitudes towards and feelings about the forthcoming training year
 
-Remember that if you're authoring it in Google Docs, you can use the 'File --> Download As' menu command to download a copy in PDF or Word format (or whichever your Course Leader / Reading Tutor may prefer). This can be attached to an email easily. Alternatively you can use the Google Drive file 'picker' (the 'drive' icon next to the 'attach' icon that will appear when you're drafting an email). This will share a 'read-only' copy of the document with the recipient (the 'live' copy; meaning that whatevr changes you make to the file are reflected on the version they will have see).Remember
+You should find the document in your google file
