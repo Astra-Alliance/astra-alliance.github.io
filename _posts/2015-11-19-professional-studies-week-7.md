@@ -6,7 +6,7 @@ permalink: /professional-studies-week-7/
 tags:
 - professional-studies
 source-id: 1YVpMYG4N-49DpDS19PISLznd9dVuvQHoN0ZmoqQf-mY
-published: true
+published: false
 ---
 **PROFESSIONAL STUDIES - WEEK 7**
 
