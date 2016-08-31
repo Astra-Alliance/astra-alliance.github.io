@@ -6,7 +6,7 @@ permalink: /info-for-26th-november-ps-session-at-the-misbourne/
 tags:
 - todo
 source-id: 1NobVGUZTGv9gPUpIwO63emlKcUhxdvpcNXC8UGDkaSg
-published: true
+published: false
 ---
 The Professional Studies session on 26th November will be at The Misbourne, and will be "Follow up Behaviour Management Session, Contact with parents & Working with other adults and external agencies ".
 
