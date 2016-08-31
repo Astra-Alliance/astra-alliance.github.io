@@ -8,7 +8,7 @@ published: true
 author: SRO
 permalink: /review-framework/
 ---
-The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abbr> framework is used by Reading and comprises a set of suggestions and associated guidance. It is designed to help mentors and colleagues give you feedback about your performance and teaching in a constructive and helpful way.
+The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abbr> framework comprises a set of suggestions and associated guidance. It is designed to help mentors and colleagues give you feedback about your performance and teaching in a constructive and helpful way.
 
 <table>
   <thead>
@@ -21,7 +21,7 @@ The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abb
   <tbody>
     <tr>
 		<td><strong>R</strong>: Reassure and Re-integrate</td>
-		<td>Reassure without letting RPT know your thoughts; even if they know you thought some teaching was effective they still have to work out what!</td>
+		<td>Reassure without letting APT know your thoughts; even if they know you thought some teaching was effective they still have to work out what!</td>
 		<td>Thank you.  There was some really effective work there…</td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abb
     </tr>
     <tr>
 		<td><strong>V</strong>: Visit through Questions</td>
-		<td>Get RPT to think about importance of lesson plan to success or otherwise of lesson
+		<td>Get APT to think about importance of lesson plan to success or otherwise of lesson
 
 			Link questions to specific Q Standards, particularly those that were a focus of the lesson and part of the RPT’s targets
 
@@ -55,7 +55,7 @@ The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abb
     </tr>
 	<tr>
 		<td><strong>I</strong>: Input – your own Contribution</td>
-		<td>If the RPT has run out of ideas (frustrated at questioning) move to more direct ‘leading’ (telling).</td>
+		<td>If the APT has run out of ideas (frustrated at questioning) move to more direct ‘leading’ (telling).</td>
 		<td>
 			<ul>
 				<li>What about...?</li>
@@ -73,7 +73,7 @@ The <abbr title="Reassure, Establish, Visit, Input, Emphasise, What">REVIEW</abb
 	<tr>
 		<td><strong>W</strong>: “What have you learnt?” / “What will you now do?”</td>
 		<td></td>
-		<td>Ask the RPT the questions and try to nail precisely what they will do with what they have learnt to take them forward in the next lesson.</td>
+		<td>Ask the APT the questions and try to nail precisely what they will do with what they have learnt to take them forward in the next lesson.</td>
 	</tr>
   </tbody>
 </table>
