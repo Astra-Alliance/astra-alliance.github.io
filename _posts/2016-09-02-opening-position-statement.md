@@ -6,7 +6,7 @@ tags:
 - instructions
 - todo
 published: true
-author: SRO
+author: KMC
 permalink: /opening-position-statement/
 ---
 You are required to complete an _Opening Position Statement_ when you begin your course. If you haven't done this yet, please go and do it!
