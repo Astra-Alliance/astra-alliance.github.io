@@ -6,7 +6,7 @@ permalink: /professional-studies-week-4/
 tags:
 - professional-studies
 source-id: 1g_dFGhBmggjCUXB0OlWebGBqRCKCt8OT1V6-8EhvQWw
-published: true
+published: false
 ---
 On Thursday 1st October, all of the Astra trainees met at Dr Challoner's Grammar School for our Professional Studies session.
 
