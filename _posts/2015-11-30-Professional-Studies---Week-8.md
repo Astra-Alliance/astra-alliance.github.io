@@ -6,7 +6,7 @@ permalink: /professional-studies---week-8/
 tags:
 - professional-studies
 source-id: 1-Km2j-3NjBwqP_m_4OrcP2yfQaCl30b_ImyiuRpsIWA
-published: true
+published: false
 ---
 **Professional Studies - Week 8**
 
