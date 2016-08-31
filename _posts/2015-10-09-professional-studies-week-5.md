@@ -6,7 +6,7 @@ permalink: /professional-studies-week-5/
 tags:
 - professional-studies
 source-id: 1Cs1cScOZvgCOFLnWP_hXva1-2sS0bAhtl62Q0d445Zs
-published: true
+published: false
 ---
 This week the Astra cohort were split into two groups to visit different schools specialising in educational needs in Buckinghamshire, the non DCGS trainees were invited to Alfriston School, a school of approximately 120 girls with moderate learning disabilities. After a brief introduction to the school's ethos we had a session on wellbeing in schools, lead by Charlene Cheung, who has a background in psychology and mental health. The session explored how student's well being directly affects their learning and vice versa, that academic success has a positive impact on their life satisfaction. 
 
