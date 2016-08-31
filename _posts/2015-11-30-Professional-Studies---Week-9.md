@@ -6,7 +6,7 @@ permalink: /professional-studies---week-9/
 tags:
 - professional-studies
 source-id: 1JPymZVYIcZyFKDH9jlgxRzBNN24v12kH_-3g8bONDIw
-published: true
+published: false
 ---
 **Professional Studies Week 9**
 
