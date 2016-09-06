@@ -23,7 +23,7 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
   </thead>
   <tbody>
     <tr>
-      <td>Main School – Shared teaching: <strong>/strong></td>
+      <td>Main School – Shared teaching: <strong></td>
       <td>33%</td>
       <td>33%</td>
 	  <td>33%</td>
