@@ -42,9 +42,9 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
     </tr>
     <tr>
       <td>Main school – Independent teaching: <strong></strong></td>
-      <td>50%</td>
-      <td>25%</td>
-	  <td>25%</td>
+      <td>70%</td>
+      <td>20%</td>
+	  <td>10%</td>
     </tr>
     <tr>
       <td>Enrichment Placement: <strong></strong></td>
