@@ -23,31 +23,31 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
   </thead>
   <tbody>
     <tr>
-      <td>Main School – Shared teaching: <strong>Weeks 9-13</strong></td>
+      <td>Main School – Shared teaching: <strong>/strong></td>
       <td>33%</td>
       <td>33%</td>
 	  <td>33%</td>
     </tr>
     <tr>
-      <td>Second school – Moving from Shared to Guided teaching in a new context: <strong>Weeks 14-20</strong></td>
+      <td>Second school – Moving from Shared to Guided teaching in a new context: <strong></strong></td>
       <td>Building towards a maximum of 50%</td>
       <td>25%</td>
 	  <td>25%</td>
     </tr>
     <tr>
-      <td>Main school – moving from Guided to Independent teaching in a familiar context: <strong>Weeks 23-26</strong></td>
+      <td>Main school – moving from Guided to Independent teaching in a familiar context: <strong></strong></td>
       <td>Building up to 50%</td>
       <td>25%</td>
 	  <td>25%</td>
     </tr>
     <tr>
-      <td>Main school – Independent teaching: <strong>Weeks 28-33</strong></td>
+      <td>Main school – Independent teaching: <strong></strong></td>
       <td>50%</td>
       <td>25%</td>
 	  <td>25%</td>
     </tr>
     <tr>
-      <td>Enrichment Placement: <strong>Weeks 34-35</strong></td>
+      <td>Enrichment Placement: <strong></strong></td>
       <td><em>Flexible according to placement</em></td>
       <td><em>Flexible according to placement</em></td>
 	  <td><em>Flexible according to placement</em></td>
