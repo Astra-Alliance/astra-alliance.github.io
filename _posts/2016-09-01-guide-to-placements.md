@@ -51,9 +51,7 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
       <td><em>Flexible according to placement</em></td>
       <td><em>Flexible according to placement</em></td>
 	  <td><em>Flexible according to placement</em></td>
-    </tr>
-  </tbody>
-</table>
+    
 
 <strong>Enrichment period</strong>
 This is a two week period during which APTs will be offered the opportunity to enrich their practice through an experience beyond normal classroom teaching. It is intended not only that the APT will benefit, but also that this will contribute in some way to the Main Placement School. This opportunity will be available to all APTs with grades of Secure or Excellent at Report 3. (Any APTs with a lower grade will continue to teach as normal.) 
