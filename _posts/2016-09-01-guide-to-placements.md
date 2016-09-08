@@ -44,13 +44,16 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
       <td>Main school – Independent teaching: <strong></strong></td>
       <td>70%</td>
       <td>20%</td>
-	  <td>10%</td>
+      <td>10%</td>
     </tr>
     <tr>
       <td>Enrichment Placement: <strong></strong></td>
       <td><em>Flexible according to placement</em></td>
       <td><em>Flexible according to placement</em></td>
-	  <td><em>Flexible according to placement</em></td>
+      <td><em>Flexible according to placement</em></td>
+    </tr>
+  </tbody>
+</table>
     
 
 <strong>Enrichment period</strong>
@@ -76,4 +79,3 @@ Revision lessons prepared by the APT in discussion with the Mentor.
 For APTs with strong subject knowledge, sixth form teaching may form a good introduction to teaching early on in the programme. It will enable them to focus on the pupils’ learning while thinking less about classroom management issues. 
 
 Astra will provide a tracking sheet for APTs to record their post 16 teaching and to note whether the experience was observing practice, collaborative teaching or sole teaching and we will monitor and support schools in delivering this increased contact through 2016-2017.
-
