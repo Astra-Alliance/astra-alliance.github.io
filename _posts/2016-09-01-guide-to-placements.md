@@ -15,7 +15,7 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
 <table>
   <thead>
     <tr>
-	  <th></th>
+      <th></th>
       <th>Supported Teaching</th>
       <th>Activities in support of teaching (observations, Mentor meeting, Professional Studies in school, working as a TA)</th>
       <th>Planning and Preparation</th>
@@ -23,19 +23,19 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
   </thead>
   <tbody>
     <tr>
-      <td>Main School – Shared teaching: <strong>
+      <td>Main School – Shared teaching</td>
       <td>33%</td>
       <td>33%</td>
 	  <td>33%</td>
     </tr>
     <tr>
-      <td>Second school – Moving from Shared to Guided teaching in a new context: <strong></strong></td>
+      <td>Second school – Moving from Shared to Guided teaching in a new context</td>
       <td>Building towards a maximum of 50%</td>
       <td>25%</td>
 	  <td>25%</td>
     </tr>
     <tr>
-      <td>Main school – moving from Guided to Independent teaching in a familiar context: <strong></strong></td>
+      <td>Main school – moving from Guided to Independent teaching in a familiar context</td>
       <td>Building up to 50%</td>
       <td>25%</td>
 	  <td>25%</td>
@@ -47,7 +47,7 @@ Fee paying APTs, whether PGCE or QTS, are always supernumerary and the class tea
       <td>10%</td>
     </tr>
     <tr>
-      <td>Enrichment Placement: <strong></strong></td>
+      <td>Enrichment Placement:</td>
       <td><em>Flexible according to placement</em></td>
       <td><em>Flexible according to placement</em></td>
       <td><em>Flexible according to placement</em></td>
