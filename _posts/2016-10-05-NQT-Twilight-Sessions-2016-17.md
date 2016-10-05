@@ -22,7 +22,7 @@ Managing Low Level Behaviour Problems* (Aspire at The Wycombe Grange, **HP13 6PQ
 
 + **Session 3: Tuesday 21st March 2017, 4-5pm**
 
-Teaching Outstanding Lessons with Alan Roe, Headteacher of DCHS** ***(Dr Challoner's High School, **HP7 9QB**)*
+Teaching Outstanding Lessons with Alan Roe, Headteacher of DCHS *(Dr Challoner's High School, **HP7 9QB**)*
 
 + **Session 4: Thursday 4th May  2017, 4-5pm**
 
