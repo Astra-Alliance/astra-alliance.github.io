@@ -12,25 +12,25 @@ published: true
 
 **We are delighted to offer the following twilight sessions for Astra NQTs this academic year:**
 
-* **Session 1: Thursday 10th November 2016, 4-5pm**
++ **Session 1: Thursday 10th November 2016, 4-5pm**
 
 Voice Coaching with Victoria Pritchard *(Dr Challoner's Grammar School, HP6 5HA)*
 
-* **Session 2: Tuesday 17th January 2017, 4-5pm**
++ **Session 2: Tuesday 17th January 2017, 4-5pm**
 
 Managing Low Level Behaviour Problems* (Aspire at The Wycombe Grange, **HP13 6PQ)*
 
-* **Session 3: ****Tuesday 21st March 2017, 4-5pm**
++ **Session 3: Tuesday 21st March 2017, 4-5pm**
 
 Teaching Outstanding Lessons with Alan Roe, Headteacher of DCHS** ***(Dr Challoner's High School, **HP7 9QB**)*
 
-* **Session 4: Thursday** **4th May  2017, 4-5pm**
++ **Session 4: Thursday 4th May  2017, 4-5pm**
 
 Technology in the classroom, speaker to be confirmed 
 
-*(Dr Challoner's Grammar School, HP6 5HA) *
+*(Dr Challoner's Grammar School, HP6 5HA)*
 
-* **Wednesday 28th June 2017, 1pm onwards at Dr Challoner's Grammar School**
++ **Wednesday 28th June 2017, 1pm onwards at Dr Challoner's Grammar School**
 
 **_NQT end of year Celebration Conference_**
 
