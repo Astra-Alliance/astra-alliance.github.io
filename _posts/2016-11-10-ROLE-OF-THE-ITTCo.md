@@ -4,7 +4,7 @@ layout: post
 author: amanda
 permalink: /role-of-the-ittco/
 tags:
-- ittcos
+- ittco
 source-id: 1SOQRhxwk_UkQksQWuRr7h_KP4uDSxBhpqFeDNxOswOk
 published: true
 ---
