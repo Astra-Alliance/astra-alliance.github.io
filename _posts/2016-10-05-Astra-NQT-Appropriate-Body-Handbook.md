@@ -16,7 +16,9 @@ Please find below links to our NQT handbook and associated documents
 
 [Professional Review Form](https://docs.google.com/document/d/1YSct2fc2bBeHqGuVutsaj3cZEwm9bxkB0lu9n8iQcqY/copy)
 
-[Mentor Meeting Record Sheet](https://docs.google.com/document/d/1eKOJ-oqvqVmNbrHyRscM4cZ2HrEQyXFrnOg2OvHarc4/copy)
+[Mentor Meeting Record Sheet](https://docs.google.com/document/d/1DK081cd3nxCuJwFapoprhSnt-OrIMuTWSx-efac9Rb0/copy)
+
+[Mentor and NQT Meeting Schedule](https://docs.google.com/document/d/1eKOJ-oqvqVmNbrHyRscM4cZ2HrEQyXFrnOg2OvHarc4/copy)
 
 [Teacher Standards Record Form](https://docs.google.com/document/d/1AzJUe3FsJnhclbP_1k5zWG-nT_6jGbUbe5FOFBsktOs/copy)
 
